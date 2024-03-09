@@ -1,0 +1,10 @@
+{
+  "/Users": {
+    "target": "localhost:8080",
+    "secure": true,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/Users": ""
+    }
+  }
+}
